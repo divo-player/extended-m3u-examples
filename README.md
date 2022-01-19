@@ -1,2 +1,2 @@
-# extended-m3u-examples
+# Extended M3U Playlists Examples
 M3U Streaming Examples
